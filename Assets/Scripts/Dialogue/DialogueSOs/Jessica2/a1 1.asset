@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb11b7eba0580144a8089f19ad9525f5, type: 3}
+  m_Name: a1 1
+  m_EditorClassIdentifier: 
+  actors: 000000000400000000000000040000000000000004000000
+  randomActorName: 
+  randomActorPortrait: {fileID: 0}
+  dialogue:
+  - Do you know what they're planning?
+  - He doesn't talk about it in detail, but when he was talking on the phone, he
+    was talking about a big explosion.
+  - Can you help me with my plan?
+  - Whatever I can.
+  - "You'll take your boyfriend out, and I'll search the house in the meantime. Can
+    you handle that?\r"
+  - Of course i can
+  optionText: []
+  option0: {fileID: 0}
+  option1: {fileID: 0}
+  option2: {fileID: 0}
+  option3: {fileID: 0}

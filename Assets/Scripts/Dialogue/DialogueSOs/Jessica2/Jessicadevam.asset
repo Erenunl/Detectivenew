@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb11b7eba0580144a8089f19ad9525f5, type: 3}
+  m_Name: Jessicadevam
+  m_EditorClassIdentifier: 
+  actors: 000000000400000004000000040000000a000000
+  randomActorName: 
+  randomActorPortrait: {fileID: 0}
+  dialogue:
+  - Tell me more about your boyfriend.
+  - What you're investigating is literally my boyfriend.
+  - That tattoo and the dumbass cult.
+  - I can't take it anymore.
+  optionText:
+  - Do you know what they're planning?
+  - Where can I get in touch with your boyfriend?
+  option0: {fileID: 11400000, guid: 417c03c2bfc86b744936c2aed95eaaa2, type: 2}
+  option1: {fileID: 11400000, guid: 51e8feed2bd514844aee5c6f493bec62, type: 2}
+  option2: {fileID: 0}
+  option3: {fileID: 0}

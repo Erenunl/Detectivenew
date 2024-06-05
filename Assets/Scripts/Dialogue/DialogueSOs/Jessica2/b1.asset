@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb11b7eba0580144a8089f19ad9525f5, type: 3}
+  m_Name: b1
+  m_EditorClassIdentifier: 
+  actors: 00000000040000000a000000
+  randomActorName: 
+  randomActorPortrait: {fileID: 0}
+  dialogue:
+  - Where can I get in touch with your boyfriend?
+  - Sometimes he's with me at the bar, but usually he's at home.
+  optionText:
+  - Do you know what they're planning?
+  option0: {fileID: 11400000, guid: 24e4e956fffe9be4ebfc061640b819f2, type: 2}
+  option1: {fileID: 0}
+  option2: {fileID: 0}
+  option3: {fileID: 0}
