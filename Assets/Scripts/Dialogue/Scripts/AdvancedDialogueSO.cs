@@ -11,7 +11,6 @@ public class AdvancedDialogueSO : ScriptableObject
     [Tooltip("Only needed if Random is selected as the actor name")]
     [Header("Random Actor Info")]
     public string randomActorName;
-    public Sprite randomActorPortrait;
 
     [Header("Dialogue")]
     [TextArea]
