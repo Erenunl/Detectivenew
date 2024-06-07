@@ -41,4 +41,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Credits.unity
     guid: c297c399ac08c4043a999e60de16e7eb
+  - enabled: 1
+    path: Assets/Scenes/FirstCutScene.unity
+    guid: e4dcef05fb4d2c0438305eb68959767e
   m_configObjects: {}
