@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class RoomChange : MonoBehaviour
 {
-    [SerializeField] float LoadDelay = 1f;
+    [SerializeField] float LoadDelay = 0.5f;
     public int sceneIndex;
     void OnTriggerStay2D(Collider2D other) 
     {
