@@ -1023,7 +1023,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7328778316652114324, guid: b27c7123a8aa83047b09e6039e85c4dc, type: 3}
       propertyPath: LoadDelay
-      value: 0.5
+      value: 0.2
       objectReference: {fileID: 0}
     - target: {fileID: 7328778316652114324, guid: b27c7123a8aa83047b09e6039e85c4dc, type: 3}
       propertyPath: sceneIndex
