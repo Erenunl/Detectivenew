@@ -11,6 +11,14 @@ public class Menu : MonoBehaviour
     {
         SceneManager.LoadScene(7);
     }
+    public void Openmenu()
+    {
+        SceneManager.LoadScene(0);
+    }
+    public void Opencredit()
+    {
+        SceneManager.LoadScene(9);
+    }
     public void Openexit()
     {
         Application.Quit();
