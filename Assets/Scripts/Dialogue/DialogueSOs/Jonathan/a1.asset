@@ -14,7 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   actors: 000000000200000000000000020000000a000000
   randomActorName: 
-  randomActorPortrait: {fileID: 0}
   dialogue:
   - What was in your truck ?
   - I was just delivering food.
